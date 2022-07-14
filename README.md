@@ -1,4 +1,4 @@
-### Hello✋ My name is TaHoon and I'm Junior FE & BE Developer.👶
+### Hello✋ My name is TaeHoon and I'm Junior FE & BE Developer.👶
 
 ![thjang94's GitHub stats](https://github-readme-stats.vercel.app/api?username=thjang94&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thjang94&layout=compact&theme=graywhite&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
